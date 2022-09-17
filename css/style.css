@@ -19,7 +19,7 @@ nav {
 
 main {
   background-color: rgba(255, 255, 0, 0.5);
-  height: 10em;
+  height: auto;
   grid-column-start: 2;
   grid-column-end: 5;
 }
@@ -33,7 +33,7 @@ aside {
 section {
   background-color: lightgray;
   width: 90%;
-  height: 2em;
+  height: auto;
   margin: 0.7em auto;
 }
 
